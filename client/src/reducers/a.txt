@@ -1,0 +1,5 @@
+Reducers take the previous state of an application and the action to get the current state.
+
+Action defines what happens and its the reducers job to change the state of the application based on the action and previous state.
+
+

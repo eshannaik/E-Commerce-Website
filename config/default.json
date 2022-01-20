@@ -1,0 +1,5 @@
+{
+    "dbURI" : "Key",
+    "jwtsecret": "jwt secret key",
+    "StripeAPIKey": "Key"
+}

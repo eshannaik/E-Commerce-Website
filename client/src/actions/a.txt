@@ -1,0 +1,3 @@
+Contian the actions that the user can do to change the state of the application.
+It is the only source of info the store has.
+Type field tells what kind of action has to take place and the rest of the fields are used for information purposes
